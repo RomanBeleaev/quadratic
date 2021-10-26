@@ -1,8 +1,16 @@
 body{
     background-color: #437dff;
-    background-repeat: repeat ;
+
+
 }
 p{
     font-size: large;
-    font
+
+}
+.centru{
+    border-style: solid;
+    align-items: center;
+
+
+
 }
